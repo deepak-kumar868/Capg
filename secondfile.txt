@@ -1,3 +1,8 @@
 This is my second file
+<<<<<<< Updated upstream
 adding another line to check diff command
 again make some change after using stash
+=======
+change in second file
+delete second line
+>>>>>>> Stashed changes
